@@ -8,7 +8,7 @@
   </ul>
 </p>
 
-<h5>Variáveis</h5>
+<h3>Variáveis</h3>
 <p>Guardar valores:</p>
 <ul>
   <li>Usar identificadores (nomes) para cada "gaveta"</li>
