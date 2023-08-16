@@ -13,4 +13,5 @@
 <ul>
   <li>Usar identificadores (nomes) para cada "gaveta"</li>
   <li>Reserva um espaço na memória</li>
+  <li>Código limpo: nomes autoexplicativos (ex: variável idade), não se inicia com número, separar com camelCase, PascalCase ou snake_case</li>
 </ul>
