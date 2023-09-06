@@ -22,6 +22,13 @@ media = soma / qt_alunos
 
 print("Média =",media)
 
-for i in range(qt_alunos):
-    if lista_notas[i] >= 5:
+# for i in range(qt_alunos):
+#     if lista_notas[i] >= media:
+#         print(lista_alunos[i])
+
+i = 0
+
+while (i < qt_alunos):
+    if lista_notas[i] >= media:
         print(lista_alunos[i])
+    i += 1
