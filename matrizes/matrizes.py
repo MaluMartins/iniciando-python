@@ -31,12 +31,6 @@ for i in range(5):
         if m[i][j] % 2 == 0:
             print(m[i][j])
 
-# ou
-
-for i in range(0, 5, 2):
-    for j in range(5):
-        print(m[i][j])
-
 print("---------------")
             
 # imprimir todos os elementos em linhas pares na matriz
@@ -44,6 +38,12 @@ for i in range(5):
     for j in range(5):
         if i % 2 == 0:
             print(m[i][j])
+
+# ou
+
+for i in range(0, 5, 2):
+    for j in range(5):
+        print(m[i][j])
 
 print("---------------")
 
